@@ -1,0 +1,39 @@
+/* Handwritten Signature Style Name */
+
+.signature-title {
+
+  font-family: "Pacifico", cursive;
+
+  font-size: 3rem;
+
+  text-align: center;
+
+  color: #e11d48;
+
+  text-shadow: 2px 2px 10px rgba(225, 29, 72, 0.4);
+
+  margin-bottom: 10px;
+
+}
+
+/* Modern Bold Section Headings */
+
+.modern-title {
+
+  font-family: "Raleway", sans-serif;
+
+  font-size: 1.8rem;
+
+  letter-spacing: 1px;
+
+  color: #0ea5e9;
+
+  text-transform: uppercase;
+
+  border-bottom: 3px solid #0ea5e9;
+
+  padding-bottom: 5px;
+
+  margin-bottom: 15px;
+
+}
